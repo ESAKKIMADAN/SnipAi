@@ -1,0 +1,16 @@
+/* style.css */
+* {
+    font-family: 'Raleway';
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: transparent;
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
